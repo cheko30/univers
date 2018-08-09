@@ -1,0 +1,16 @@
+com/spo/service/universitystatitics/UniversityStatiticsService.class
+com/spo/service/security/RegiterUserService.class
+com/spo/service/showuniversities/ShowUniversitiesServiceImpl.class
+com/spo/service/adduniversity/AddUnivesityService.class
+com/spo/service/removestudent/RemoveStudentServiceImpl.class
+com/spo/service/universitystatitics/UniversityStatiticsServiceImpl.class
+com/spo/service/addstudent/AddStudentService.class
+com/spo/service/showallstudents/ShowAllStudentsService.class
+com/spo/service/removestudent/RemoveStudentservice.class
+com/spo/service/addstudent/AddStudentServiceImpl.class
+com/spo/service/showuniversities/ShowAllUniversitiesService.class
+com/spo/service/security/RegiterUserServiceImpl.class
+com/spo/service/showallstudents/ShowAllStudentsServicesImpl.class
+com/spo/service/security/UserServiceImpl.class
+com/spo/service/security/CustomerUserDetails.class
+com/spo/service/adduniversity/AddUniversiyServiceImpl.class

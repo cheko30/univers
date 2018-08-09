@@ -1,0 +1,4 @@
+com/spo/repository/university/UniversityRepository.class
+com/spo/repository/student/AddStudentRepository.class
+com/spo/repository/security/UserRepository.class
+com/spo/repository/removestudent/RemoveStudentRepository.class
